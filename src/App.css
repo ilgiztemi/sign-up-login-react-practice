@@ -29,10 +29,11 @@
 }
 .header h1 {
   margin: 10px;
-  font-size: 40px;
+  font-size: 35px;
 }
 .header p {
   margin: 10px;
+  font-size: 16px;
 }
 
 .grid {
@@ -76,6 +77,10 @@
   border-radius: 5px;
   margin-top: 15px;
   cursor: pointer;
+}
+.register:hover {
+  background-color: aliceblue;
+  color: #101010;
 }
 .login  {
   background-color: black;
